@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sum Array Elements", "01. Sum Array Elements\01. Sum Array Elements.csproj", "{13085C00-E485-408D-B0E8-76637EC591C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Multiply an Array of Doubles", "02. Multiply an Array of Doubles\02. Multiply an Array of Doubles.csproj", "{42C03AF8-06E5-49B3-B282-89B2DF23B736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Smallest Element in Array", "03. Smallest Element in Array\03. Smallest Element in Array.csproj", "{310D3290-12CF-4B24-A5BB-5CF699DF71A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Rotate Array of Strings", "04. Rotate Array of Strings\04. Rotate Array of Strings.csproj", "{45B04E6F-D791-4659-9399-7C00F293C8E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Count of Odd Numbers in Array", "05. Count of Odd Numbers in Array\05. Count of Odd Numbers in Array.csproj", "{84787A40-1AB1-477E-A937-216ACCC3375A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Odd Numbers at Odd Positions", "06. Odd Numbers at Odd Positions\06. Odd Numbers at Odd Positions.csproj", "{5F931982-A4BB-4A95-9ADC-66849E1AAC75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Rotate Array of Strings-secondway", "04. Rotate Array of Strings-secondway\04. Rotate Array of Strings-secondway.csproj", "{513C93CC-B162-490C-A583-FDC8D95079F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Rotate Array of Strings - thirdway", "04. Rotate Array of Strings - thirdway\04. Rotate Array of Strings - thirdway.csproj", "{2A0AF7F8-2855-4B0E-92D7-62206D52DCE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Rotate Array of Strings - forthway", "04. Rotate Array of Strings - forthway\04. Rotate Array of Strings - forthway.csproj", "{0F6742DB-30D3-44F4-91E6-AE65B55120CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Rotate Array of Strings - fifthway", "04. Rotate Array of Strings - fifthway\04. Rotate Array of Strings - fifthway.csproj", "{D9B3C4B3-A9EC-4C3C-A0B3-648D778BDAD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Odd Numbers at Odd Positions-secondway", "06. Odd Numbers at Odd Positions-secondway\06. Odd Numbers at Odd Positions-secondway.csproj", "{6462A381-A891-4A01-8E7B-C6E8B0B5EC3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13085C00-E485-408D-B0E8-76637EC591C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13085C00-E485-408D-B0E8-76637EC591C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13085C00-E485-408D-B0E8-76637EC591C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13085C00-E485-408D-B0E8-76637EC591C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C03AF8-06E5-49B3-B282-89B2DF23B736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C03AF8-06E5-49B3-B282-89B2DF23B736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C03AF8-06E5-49B3-B282-89B2DF23B736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C03AF8-06E5-49B3-B282-89B2DF23B736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{310D3290-12CF-4B24-A5BB-5CF699DF71A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310D3290-12CF-4B24-A5BB-5CF699DF71A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310D3290-12CF-4B24-A5BB-5CF699DF71A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310D3290-12CF-4B24-A5BB-5CF699DF71A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45B04E6F-D791-4659-9399-7C00F293C8E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B04E6F-D791-4659-9399-7C00F293C8E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B04E6F-D791-4659-9399-7C00F293C8E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B04E6F-D791-4659-9399-7C00F293C8E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84787A40-1AB1-477E-A937-216ACCC3375A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84787A40-1AB1-477E-A937-216ACCC3375A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84787A40-1AB1-477E-A937-216ACCC3375A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84787A40-1AB1-477E-A937-216ACCC3375A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F931982-A4BB-4A95-9ADC-66849E1AAC75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F931982-A4BB-4A95-9ADC-66849E1AAC75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F931982-A4BB-4A95-9ADC-66849E1AAC75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F931982-A4BB-4A95-9ADC-66849E1AAC75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{513C93CC-B162-490C-A583-FDC8D95079F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513C93CC-B162-490C-A583-FDC8D95079F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513C93CC-B162-490C-A583-FDC8D95079F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513C93CC-B162-490C-A583-FDC8D95079F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A0AF7F8-2855-4B0E-92D7-62206D52DCE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0AF7F8-2855-4B0E-92D7-62206D52DCE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0AF7F8-2855-4B0E-92D7-62206D52DCE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0AF7F8-2855-4B0E-92D7-62206D52DCE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F6742DB-30D3-44F4-91E6-AE65B55120CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6742DB-30D3-44F4-91E6-AE65B55120CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6742DB-30D3-44F4-91E6-AE65B55120CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6742DB-30D3-44F4-91E6-AE65B55120CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9B3C4B3-A9EC-4C3C-A0B3-648D778BDAD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B3C4B3-A9EC-4C3C-A0B3-648D778BDAD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B3C4B3-A9EC-4C3C-A0B3-648D778BDAD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B3C4B3-A9EC-4C3C-A0B3-648D778BDAD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6462A381-A891-4A01-8E7B-C6E8B0B5EC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6462A381-A891-4A01-8E7B-C6E8B0B5EC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6462A381-A891-4A01-8E7B-C6E8B0B5EC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6462A381-A891-4A01-8E7B-C6E8B0B5EC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
