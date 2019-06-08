@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathOperations", "MathOperations\MathOperations.csproj", "{6B3DF2C2-A57D-4E33-BCA0-D03871271C7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{93A7968A-FB3A-4C35-B4D7-334067C6437F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{DEA69871-FD3E-4F93-A923-10C69B0CC7EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B3DF2C2-A57D-4E33-BCA0-D03871271C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B3DF2C2-A57D-4E33-BCA0-D03871271C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B3DF2C2-A57D-4E33-BCA0-D03871271C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B3DF2C2-A57D-4E33-BCA0-D03871271C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93A7968A-FB3A-4C35-B4D7-334067C6437F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A7968A-FB3A-4C35-B4D7-334067C6437F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A7968A-FB3A-4C35-B4D7-334067C6437F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A7968A-FB3A-4C35-B4D7-334067C6437F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEA69871-FD3E-4F93-A923-10C69B0CC7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA69871-FD3E-4F93-A923-10C69B0CC7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA69871-FD3E-4F93-A923-10C69B0CC7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA69871-FD3E-4F93-A923-10C69B0CC7EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96446299-9D44-4016-AF7B-EF9097F63880}
+	EndGlobalSection
+EndGlobal

@@ -1,10 +1,10 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using System.Linq;
-using ToDoList.Data;
-using ToDoList.Models;
-
-namespace ToDoList.Controllers
+﻿namespace ToDoList.Controllers
 {
+    using Microsoft.AspNetCore.Mvc;
+    using System.Linq;
+    using ToDoList.Data;
+    using ToDoList.Models;
+
     public class TaskController : Controller
     {
         public IActionResult Index()
